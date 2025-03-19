@@ -7,7 +7,6 @@ const Contact = () =>{
             <div
               class="profile-card w-full min-h-[350px] rounded-md shadow-xl overflow-hidden z-[100] relative cursor-pointer bg-white flex flex-row items-center transition-all duration-300 p-5 group"
             >
-             
               <div class="w-[45%] flex justify-center">
                 <img 
                   src="/pr.uthviraj96k_14021107_135029699.jpg" 
@@ -15,8 +14,6 @@ const Contact = () =>{
                   class="size-56 z-40 border-4 border-white rounded-full group-hover:border-8 transition-all duration-300"
                 />
               </div>
-          
-              
               <div class="w-[50%] flex flex-col gap-3">
                 <div class="headings text-left">
                   <p class="text-3xl font-serif font-semibold text-[#434955]">Pruthviraj Mohan Kachare</p>
@@ -45,3 +42,5 @@ const Contact = () =>{
         </>
     )
 }
+
+export default Contact
