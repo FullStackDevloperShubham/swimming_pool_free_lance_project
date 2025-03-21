@@ -1,12 +1,13 @@
 // import files 
 import Contact from '../Contact/Contact.jsx'
-
+import Footer from '../Footer/Footer.jsx'
+import Carousel from '../Carousal/Carousal.jsx'
 const Home  = () =>{
     return(
-       
         <>
-         {/* <h1>Home page</h1> */}
+        <Carousel/>
         <Contact/>
+        <Footer/>
         </>
     )
 }

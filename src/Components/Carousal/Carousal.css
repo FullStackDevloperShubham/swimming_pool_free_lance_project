@@ -1,0 +1,22 @@
+@media (max-width: 768px) {
+    .carousel-container {
+      width: 100vw;
+      /* Ensure it takes full viewport width */
+      max-width: 100%;
+      /* Prevents overflow */
+      overflow: hidden;
+    }
+  
+    .carousel-track {
+      display: flex;
+      transition: transform 0.7s ease-in-out;
+      width: 100vw;
+      /* Ensures the slides fit the screen */
+    }
+  
+    .carousel-slide {
+      width: 100vw !important;
+      /* Each slide takes full width */
+      flex-shrink: 0;
+    }
+  }
