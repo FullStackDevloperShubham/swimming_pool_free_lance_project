@@ -4,23 +4,23 @@ const Carousel = () => {
   // images are loaded
   const item = [
     {
-      image: '/public/Carousal/Shoe_1.jpg',
+      image: '/Carousal/Shoe_1.jpg',
       title: 'Item 1'
     },
     {
-      image: '/public/Carousal/Shoe_2.jpg',
+      image: '/Carousal/Shoe_2.jpg',
       title: 'Item 2'
     },
     {
-      image: '/public/Carousal/Shoe_3.jpg',
+      image: '/Carousal/Shoe_3.jpg',
       title: 'Item 3'
     },
     {
-      image: '/public/Carousal/Shoe_4.jpg',
+      image: '/Carousal/Shoe_4.jpg',
       title: 'Item 4'
     },
     {
-      image: '/public/Carousal/Shoe_5.jpg',
+      image: '/Carousal/Shoe_5.jpg',
       title: 'Item 5'
     }
   ]

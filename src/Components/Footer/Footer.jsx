@@ -2,7 +2,7 @@
 const Footer = () => {
     return (
         <>
-            <div class="flex flex-col ">
+            <div class="flex flex-col mt-10 ">
                 <footer class="bg-gradient-to-r from-blue-600 to-purple-500 text-white py-2 w-full">
                     <div class="flex flex-col md:flex-row items-center justify-between w-full mx-0 my-0">
                         <div class="md:w-auto text-center mx-auto">
