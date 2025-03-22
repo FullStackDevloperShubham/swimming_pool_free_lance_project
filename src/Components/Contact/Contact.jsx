@@ -5,7 +5,7 @@ const Contact = () => {
                 <div class="w-full max-w-none flex flex-col md:flex-row items-center text-center md:text-left px-8 bg-gray-900 text-white  backdrop-blur-lg rounded-xl shadow-2xl p-12 md:p-16 border border-white/20">
 
                     {/* <!-- Image on the Left --> */}
-                    <div class="w-full md:w-1/3 flex justify-center md:justify-start mt-6 ml-20 md:mt-0  border border-white/20 rounded-2xl ">
+                    <div class="w-full md:w-1/3 flex justify-center md:justify-start mt-6 ml-20 md:mt-0   ">
                         <img class="w-96 h-72 md:w-[500px] md:h-72  shadow-xl rounded-2xl"
                             src="https://images.unsplash.com/photo-1557459325-b6733cbeae9c?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Swimming Pool" />
                     </div>
