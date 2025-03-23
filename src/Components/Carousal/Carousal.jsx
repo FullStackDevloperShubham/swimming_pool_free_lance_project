@@ -70,7 +70,7 @@ const Carousel = () => {
     }, 2000)
 
     // Clean up timeout if user interacts again before it completes
-    // return () => clearTimeout(resumeTimeout)
+    return () => clearTimeout(resumeTimeout)
   }
 
   // Handler functions that pause auto-sliding
