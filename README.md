@@ -44,7 +44,7 @@ npm run dev
 ## 📬 Contact
 
 For any queries, feel free to reach out! 📧  
-[Your Email] | [Your Website] | [Your Socials]  
+GitHub :  https://github.com/FullStackDevloperShubham
 
 ---
 
